@@ -15,6 +15,8 @@ Há um tempo ela havia me solicitado para desenvolver, eu desenvolvi uma versão
 
 ### A primeira versão da arte:
 
+---
+
 ![Substrato_Suburbano_versao_inicial.png](/uploads/Substrato_Suburbano_versao_inicial.png)
 
 Ela tinha dito que havia curtido, no entanto havia algumas ajustes que ela queria. Ela queria minimalista, mas queria laranja. Eu particularmente não achava laranja uma cor que podia enfiar um visual *minimal* na parada.
@@ -25,10 +27,12 @@ Segue abaixo as novas imagens com algumas novas alterações e com **laranja** e
 
 ### Fundo verde:
 
+---
 ![Substrato_Suburbano_1-green.png](/uploads/Substrato_Suburbano_1-green.png)
 
 ### Fundo laranja pastel:
 
+---
 ![Substrato_Suburbano_1-pastel-orange.png](/uploads/Substrato_Suburbano_1-pastel-orange.png)
 
 Deu um trabalhinho para fazer, gostei do resultado.
