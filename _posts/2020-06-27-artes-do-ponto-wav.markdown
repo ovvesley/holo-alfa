@@ -10,7 +10,7 @@ Artes criadas para o podcast Ponto Wav
 <!--more-->
 
 
-Uma das atividades que me amarro em fazer é a criação de artes; sempre quando há a oportunidade tento ir criando minhas artes para alguma utilidade. Na ocasião desse post foi sobre Ponto Wav Podcast.
+Uma das atividades que me amarro em fazer é a criação de artes; sempre quando existe a oportunidade tento ir criando minhas artes para alguma utilidade. Na ocasião desse post foi sobre Ponto Wav Podcast.
 
 Ponto Wav é um podcast que veio como ideia para conversar com meus amigos e me inserir nessa experiência de gravar um podcast.
 
