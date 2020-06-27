@@ -4,6 +4,7 @@ date: 2020-06-27 19:50:00 Z
 excerpt_separator: Artes para o blog Substrato Urbano
 ---
 
+---
 Artes do blog Substrato Urbano.
 
 <!--more-->
