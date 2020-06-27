@@ -5,7 +5,7 @@ date: 2020-06-27 18:35:00 Z
 
 ---
 
-Artes criadas para o podcast Ponto Wav
+Artes do podcast Ponto Wav.
 
 <!--more-->
 
