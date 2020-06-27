@@ -22,4 +22,4 @@ Em alguma oportunidade, tento expor essa experiência em palavras aqui no blog. 
 
 ![logo-blue.png](/uploads/logo-blue.png)
 
-Eu tentei criar algo um pouco moderno que conseguisse transparecer um pouco o visual que queria ilustrar no podcast; algo jovem, moderno e minimalista.
+Eu tentei criar algo um moderno que conseguisse transparecer o visual que queria ilustrar no podcast; algo jovem, moderno e minimalista.
