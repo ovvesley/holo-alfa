@@ -1,7 +1,6 @@
 ---
 title: Artes do Substrato Urbano
 date: 2020-06-27 19:50:00 Z
-published: false
 excerpt_separator: Artes para o blog Substrato Urbano
 ---
 
