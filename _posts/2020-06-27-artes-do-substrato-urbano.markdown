@@ -28,11 +28,13 @@ Segue abaixo as novas imagens com algumas novas alterações e com **laranja** e
 ### Fundo verde:
 
 ---
+
 ![Substrato_Suburbano_1-green.png](/uploads/Substrato_Suburbano_1-green.png)
 
 ### Fundo laranja pastel:
 
 ---
+
 ![Substrato_Suburbano_1-pastel-orange.png](/uploads/Substrato_Suburbano_1-pastel-orange.png)
 
-Deu um trabalhinho para fazer, gostei do resultado.
+Deu um trabalhinho para fazer, mas gostei bastante do resultado; ela também.
