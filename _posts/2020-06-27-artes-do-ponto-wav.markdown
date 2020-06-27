@@ -5,7 +5,7 @@ date: 2020-06-27 18:35:00 Z
 
 ---
 
-This post is a showcase of what Holo Alfa looks like, and a reference guide for how you can use it to make your blog shine.
+Artes criadas para o podcast Ponto Wav
 
 <!--more-->
 
@@ -17,6 +17,8 @@ Ponto Wav é um podcast que veio como ideia para conversar com meus amigos e me 
 Em alguma oportunidade, tento expor essa experiência em palavras aqui no blog. Por ora, segue as artes:
 
 ![logo-orange.png](/uploads/logo-orange.png)
+
+---
 
 ![logo-blue.png](/uploads/logo-blue.png)
 
