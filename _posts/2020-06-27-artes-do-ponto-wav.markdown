@@ -3,6 +3,13 @@ title: Artes do Ponto Wav
 date: 2020-06-27 18:35:00 Z
 ---
 
+---
+
+This post is a showcase of what Holo Alfa looks like, and a reference guide for how you can use it to make your blog shine.
+
+<!--more-->
+
+
 Uma das atividades que me amarro em fazer é a criação de artes; sempre quando há a oportunidade tento ir criando minhas artes para alguma utilidade. Na ocasião desse post foi sobre Ponto Wav Podcast.
 
 Ponto Wav é um podcast que veio como ideia para conversar com meus amigos e me inserir nessa experiência de gravar um podcast.
