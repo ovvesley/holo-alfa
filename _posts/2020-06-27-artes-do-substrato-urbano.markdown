@@ -5,6 +5,10 @@ published: false
 excerpt_separator: Artes para o blog Substrato Urbano
 ---
 
+Artes do blog Substrato Urbano.
+
+<!--more-->
+
 Meus amigos ora ou outra aparece com alguma ideia e essa ideia precisa ser ilustrada; nesse caso não foi diferente, minha prima estava com uma ideia de um blog, ela me solicitou as artes e decidi desenvolver para ela.
 
 Há um tempo ela havia me solicitado para desenvolver, eu desenvolvi uma versão inicial, pois ela me disse que queria uma *pegada* minimalista.
