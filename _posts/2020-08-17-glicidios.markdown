@@ -27,11 +27,11 @@ São monômeros que possui a seguinte formula estrutural
 
 Os monossacarídeos possui a seguinte divisão de acordo com a quantidade de carbono:
 
-3 Carbonos - Triose 
-4 Carbonos - Tetrose
-5 Carbonos - **Pentose**
-6 Carbonos - **Hexose**
-7 Carbonos - Heptose
+3 Carbonos - Triose <br/>
+4 Carbonos - Tetrose <br/>
+5 Carbonos - **Pentose** <br/>
+6 Carbonos - **Hexose** <br/>
+7 Carbonos - Heptose <br/>
 
 ---
 
