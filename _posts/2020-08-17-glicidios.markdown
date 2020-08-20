@@ -5,6 +5,8 @@ date: 2020-08-17 19:21:00 Z
 
 Bioquímica -  Glicídios
 
+<!--more-->
+
 ---
 
 Essa postagem é um inicio das postagens que estarei fazendo referente ao tema de bioquímica como um auxilio para o meu aprendizado para o vestibular na matéria de biologia. Achei a matéria extremamente bacana e difícil, então,  a escrita nesse blog vai me ajudar a fixar.
