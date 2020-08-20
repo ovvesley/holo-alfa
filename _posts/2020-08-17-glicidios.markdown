@@ -3,6 +3,10 @@ title: Glicídios
 date: 2020-08-17 19:21:00 Z
 ---
 
+Bioquímica -  Glicídios
+
+---
+
 Essa postagem é um inicio das postagens que estarei fazendo referente ao tema de bioquímica como um auxilio para o meu aprendizado para o vestibular na matéria de biologia. Achei a matéria extremamente bacana e difícil, então,  a escrita nesse blog vai me ajudar a fixar.
 
 Podemos dividir os principais componentes que são estudados na bioquímica em Orgânicos e Inorgânicos. Irei iniciar com os componentes orgânicos; nessa post inicial será sobre os **Glicídios.**
@@ -21,9 +25,9 @@ Segue abaixo a classificação:
 
 ### Monossacarídeos
 
-São monômeros que possui a seguinte formula estrutural 
+São monômeros que possui a seguinte formula estrutural
 
-**(C H2O)** - Note o **CARBO IDRATO **
+**(C H2O)** - Note o \*\*CARBO IDRATO \*\*
 
 Os monossacarídeos possui a seguinte divisão de acordo com a quantidade de carbono:
 
@@ -37,25 +41,21 @@ Os monossacarídeos possui a seguinte divisão de acordo com a quantidade de car
 
 Os mais importantes são a **Pentose** e **Hexose**.
 
-
-
 * **Hexose** (C6 H12 O6)
 
-  * Glicose 
+  * Glicose
 
   * Frutose
 
   * Galactose
 
-(SIIIM, eles são isomeros)
-
+\(SIIIM, eles são isomeros)
 
 * **Pentose** (C5 H10 O5)
 
   * Ribose (RNA)
 
   * Desoxirribose (DNA) (C5 H12 O4) possui um carbono a menos, por ser **desoxi**
-
 
 ---
 
@@ -68,10 +68,11 @@ Segue o exemplo na imagem abaixo:
 ![ligacaoglicosidica-cke.jpg](/uploads/ligacaoglicosidica-cke.jpg)
 
 ---
-###Oligossacarídeo 
+
+\###Oligossacarídeo
 ... a escrever
 
 ---
 
-###Polissacarídeo 
+\###Polissacarídeo
 ... a escrever
