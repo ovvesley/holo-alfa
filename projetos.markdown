@@ -47,8 +47,9 @@ date: 2020-10-25 00:52:00 Z
                     <hr/>
                     <p>
                     Uma extensão para que deixa seu Google Chrome limpo.
+                     <strong>Saber mais...</strong>
                     </p>
-                      <strong>Saber mais...</strong>
+                     
                 </div>
         </div>        
     </div>    
