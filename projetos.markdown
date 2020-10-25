@@ -33,7 +33,7 @@ date: 2020-10-25 00:52:00 Z
                     <hr/>
                     <p>
                         O 'coleta-se' essencialmente é uma plataforma de busca para pontos de coleta seletiva.
-                       <a url="https://github.com/ovvesley/coleta-se"> <strong>Saber mais...</strong> </a>
+                       <a href="https://github.com/ovvesley/coleta-se"> <strong>Saber mais...</strong> </a>
                     </p>                
                 </div>
         </div>    
@@ -46,7 +46,7 @@ date: 2020-10-25 00:52:00 Z
                     <hr/>
                     <p>
                         Uma extensão para que deixa seu Google Chrome limpo.
-                        <a url="https://github.com/ovvesley/clear-history-chrome"><strong>Saber mais...</strong></a>
+                        <a href="https://github.com/ovvesley/clear-history-chrome"><strong>Saber mais...</strong></a>
                     </p>
                 </div>
         </div>        
