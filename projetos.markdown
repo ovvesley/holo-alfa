@@ -51,6 +51,7 @@ date: 2020-10-25 00:52:00 Z
                     <p>
                     Uma extensão para que deixa seu Google Chrome limpo.
                     </p>
+                      <strong>Saber mais...</stronm>
                 </div>
             </div>
         </a>
