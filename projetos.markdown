@@ -6,7 +6,6 @@ date: 2020-10-25 00:52:00 Z
 <style>
     .article-index.card-project{
         width: 380px;
-        height: 100%;
     }
 
     .description-container {
