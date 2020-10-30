@@ -51,19 +51,6 @@ date: 2020-10-25 00:52:00 Z
                 </div>
         </div>        
         <div class="article-index card-project col-12 col-sm-5 m-1 mt-5 mr-sm-5  ">
-                <strong>Cefet-Bird-</strong>
-                <div class="image-container">
-                    <img src="https://raw.githubusercontent.com/ovvesley/clear-history-chrome/master/assets/icon128.png">
-                </div>
-                <div class="description-container">
-                    <hr/>
-                    <p>
-                        Jogo em JS inspirado no Flappy Bird
-                        <a href="https://raw.githubusercontent.com/ovvesley/cefet-bird/master/birda.png"><strong>Saber mais...</strong></a>
-                    </p>
-                </div>
-        </div>
-        <div class="article-index card-project col-12 col-sm-5 m-1 mt-5 mr-sm-5  ">
                 <strong>Cefet-Bird</strong>
                 <div class="image-container">
                     <img src="https://raw.githubusercontent.com/ovvesley/cefet-bird/master/birda.png">
