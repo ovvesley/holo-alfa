@@ -63,7 +63,7 @@ date: 2020-10-25 00:52:00 Z
                     </p>
                 </div>
         </div> 
-        <div class="article-index card-project col-12 col-sm-5 m-1 mr-sm-5  ">
+        <div class="article-index card-project col-12 col-sm-5 m-1 mt-5 mr-sm-5  ">
                 <strong>Nossas Universidades</strong>
                 <div class="image-container">
                     <img src="https://raw.githubusercontent.com/ovvesley/nossas-universidades/master/repo-config/logo.png">
