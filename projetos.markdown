@@ -62,7 +62,20 @@ date: 2020-10-25 00:52:00 Z
                         <a href="https://github.com/ovvesley/cefet-bird"><strong>Saber mais...</strong></a>
                     </p>
                 </div>
-        </div>  
+        </div> 
+        <div class="article-index card-project col-12 col-sm-5 m-1 mr-sm-5  ">
+                <strong>Nossas Universidades</strong>
+                <div class="image-container">
+                    <img src="https://raw.githubusercontent.com/ovvesley/nossas-universidades/master/repo-config/logo.png">
+                </div>
+                <div class="description-container">
+                    <hr/>
+                    <p>
+                       Nossas Universidades é um projeto Open Source que visa listar todas as nossas universidades públicas do Brasil em uma página.
+                        <a href="https://github.com/ovvesley/nossas-universidades"><strong>Saber mais...</strong></a>
+                    </p>
+                </div>
+        </div> 
     </div>    
 </div>
 
