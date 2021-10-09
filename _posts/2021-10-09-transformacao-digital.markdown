@@ -5,9 +5,12 @@ layout: post
 ---
 
 
+Trabalho do Primeiro semestre, 2021.1, da disciplina de Fundamentos de Sistema de Informação, do IC UFF, do curso de bacharelado em Sistemas de Informação.
+Trabalho feito por mim e meu amigo @Robootics
+
+---
 
 # Transformação Digital
-
   
   
 
