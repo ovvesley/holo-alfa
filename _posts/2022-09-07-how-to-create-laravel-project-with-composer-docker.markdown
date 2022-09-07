@@ -11,7 +11,7 @@ tags:
 ---
 
 with docker installed just run this command in the parent folder of project
----
+
 
 
     docker run --rm --interactive --tty \
