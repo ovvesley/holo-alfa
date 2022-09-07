@@ -1,7 +1,6 @@
 ---
 title: How to create Laravel Project with Composer (docker)
 date: 2022-09-07 15:35:00 Z
-published: false
 categories:
 - software engineer
 tags:
