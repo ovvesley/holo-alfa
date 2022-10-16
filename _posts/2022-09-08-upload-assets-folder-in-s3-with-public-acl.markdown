@@ -1,6 +1,7 @@
 ---
 title: Upload assets folder in s3 with public acl
 date: 2022-09-08 12:56:00 Z
+published: false
 categories:
 - software engineer
 tags:
