@@ -1,6 +1,7 @@
 ---
 title: Sobre mim
 date: 2020-06-18 00:52:00 Z
+published: false
 layout: page
 ---
 
