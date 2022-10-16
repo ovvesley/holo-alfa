@@ -1,6 +1,7 @@
 ---
 title: Transformação Digital
 date: 2021-10-09 20:08:00 Z
+published: false
 layout: post
 ---
 
