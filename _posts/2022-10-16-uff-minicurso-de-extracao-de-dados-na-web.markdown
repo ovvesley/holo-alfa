@@ -8,7 +8,7 @@ tags:
 
 UFF - Minicurso de Extração de Dados na Web
 
---
+---
 
 Bem vindo ao Minicurso de Extração de Dados na Web. Essa é uma página de apoio para todos os tópicos pontuados pelo curso.
 
