@@ -16,6 +16,8 @@ Aqui você encontrará desde a apresentação ministrada aos links para acompanh
 
 Espero que seja uma jornada proveitosa.
 
+<!--more-->
+
 ---
 
 [Link da apresentação](https://docs.google.com/presentation/d/142fm1cSVAAfKXl0khZZdSQjUuPbmDn1aIyorXkozkhM/edit?usp=sharing)
