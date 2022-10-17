@@ -18,7 +18,7 @@ Espero que seja uma jornada proveitosa.
 
 ---
 
-Link da apresentação: https://docs.google.com/presentation/d/142fm1cSVAAfKXl0khZZdSQjUuPbmDn1aIyorXkozkhM/edit?usp=sharing
+[Link da apresentação](https://docs.google.com/presentation/d/142fm1cSVAAfKXl0khZZdSQjUuPbmDn1aIyorXkozkhM/edit?usp=sharing)
 
 Link dos exemplos:
 
